@@ -8,7 +8,6 @@
 target/
 out/
 !.mvn/wrapper/maven-wrapper.jar
-.class
 
 ######################################################################
 # IDE
